@@ -1,0 +1,151 @@
+body
+{
+			background-image:url(images/dark.jpg);
+			background-repeat:repeat;
+}
+#container
+{
+			width:1000px;
+			min-height:750px;
+			margin:0 auto;
+}
+
+#menu1
+{
+				width:1000px;
+				height:60px;
+				background-color:#ccc;
+}
+#menu1 li
+{
+				font-family:Verdana, Geneva, sans-serif;
+				font-size:16px;
+				padding:20px 37px 0px 37px;
+				display:block;
+				height:40px;
+				float:left; 
+				border-right:1px solid #333;
+}
+#social
+{
+	float:right;
+	height:80px;
+	width:250px;
+	
+}
+#menu1 li a:hover 
+{
+				color:#323941;
+}
+#menu1 a
+{
+				text-decoration:none;
+				font-family:Verdana, Geneva, sans-serif;
+				font-size:16px;
+				display:block;
+				height:40px;
+				color:#999;
+}
+/* search */
+#images
+{
+				width:1000px;
+				background-color:#FFF;
+				margin-top:5px;
+			
+}
+#contant120
+{
+				width:1000px;
+				min-height:500px;
+				background-color:#CCC;
+				margin-top:5px;
+				
+			
+}
+#left1
+{
+				width:250px;
+				background-color:#ccc;
+				min-height:480px;
+				float:left;
+}
+
+#image
+{
+				width:240px;
+				height:480px;
+				background-color:#323941;
+				margin-top:10px;
+				margin-left:30px;
+}
+#image2
+{
+				width:240px;
+				height:480px;
+				background-color:#323941;
+				margin-top:10px;
+}
+#imag
+{
+				width:230px;
+				height:480px;
+				margin-left:5px;
+				text-align:center;
+			
+}
+#imag2
+{
+				width:230px;
+				height:480px;
+				margin-left:5px;
+				behavior: url(/css/border-radius.htc);
+    			border-radius: 25px;
+				text-align:center;
+}
+#right1
+{
+				width:270px;
+				min-height:480px;
+				float:right;
+}
+
+#centerdata
+{
+				width:380px;
+				height:480px;
+				margin-left:310px;
+}
+.clear1
+{
+				clear:both;
+}
+.justify
+{
+				text-align:justify;
+}
+#footer
+{
+				width:998px;
+				height:90px;
+				margin-top:-10px;
+				border: #fff  thin solid;
+				background-color:#ccc;
+}
+
+#footer li
+{
+				font-family:Verdana, Geneva, sans-serif;
+				font-size:13px;
+				padding:20px 20px 0px 15px;
+				display:block;
+				height:40px;
+				float:left; 
+}
+#footer li a{text-decoration:none; color:#333}
+.bg
+{
+				border: 1px solid #CCC;
+				height:180px;
+				width:200px;
+}
